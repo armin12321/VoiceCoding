@@ -15,7 +15,7 @@
 ## Upotreba
   - Klonirati repozitorijum 
   - Otvoriti cmd, te u kloniranom repozitorijumu pokrenuti naredbu 'python3 main.py'
-  - Video demonstracija na linku : -link-
+  - Video demonstracija na linku : https://youtu.be/fMPOM9KipvA
   
 ## Za kraj
   - Za sve sugestije, ispravke i ideje za unapređenje projekta javite se na : arminpeta@gmail.com
